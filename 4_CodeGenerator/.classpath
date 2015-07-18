@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/eswar/Google Drive/Education/CSE 340 Principles of Programming Language/Summer2015_JavierGonzalez/Assignments/Questions/Assignment4 And Extra Credit/lexer.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
